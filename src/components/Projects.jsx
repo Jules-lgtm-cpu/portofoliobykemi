@@ -50,7 +50,7 @@ const PROJECTS = [
     desc: "E-commerce de cosmétiques naturels africains : catalogue, fiches produits, panier et paiement mobile.",
     tags: ["React", "JavaScript"],
     year: "2026",
-    demo: "#",
+    demo: "https://origlow.vercel.app",
     github: "#",
     color: "#2e1a0a",
   },
