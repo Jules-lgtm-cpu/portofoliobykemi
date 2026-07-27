@@ -20,7 +20,7 @@ const PROJECTS = [
     desc: "Boutique de mode africaine en ligne : catalogue produits, filtres par collection et commande via WhatsApp.",
     tags: ["React", "JavaScript"],
     year: "2026",
-    demo: "#",
+    demo: "https://fashionstore-nu.vercel.app",
     github: "#",
     color: "#1a0a0f",
   },
