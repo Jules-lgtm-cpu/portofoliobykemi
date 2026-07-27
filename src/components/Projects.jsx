@@ -30,7 +30,7 @@ const PROJECTS = [
     desc: "Application de finances personnelles : suivi des dépenses, budget mensuel et graphiques interactifs.",
     tags: ["React", "JavaScript"],
     year: "2026",
-    demo: "#",
+    demo: "https://budgetwise-delta.vercel.app",
     github: "#",
     color: "#0a1f2e",
   },
